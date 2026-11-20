@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Diisi otomatis oleh GitHub Actions dengan nama repo (owner/repo). -->
+    <string name="update_repo" translatable="false">GANTI/REPO</string>
+</resources>
